@@ -4,7 +4,7 @@
 
 ## Description
 
-This app is an E-Commerce site that uses the MERN Stack and Stripe. As part of this project I had to refactor the code so that it uses Redux for handling global state instead of context api. Context api is very similar to Redux in many ways so there wasn't to many changes to implement. In this project I learned the importance of reading the documentation of new techonologies because even though the two, context api and Redux, are very similar a simmple syntax error can cause a lot of problems.
+This app is an E-Commerce site that uses the MERN Stack and Stripe. As part of this project I had to refactor the code so that it uses Redux for handling global state instead of Context API. Context API is very similar to Redux in many ways so there wasn't to many changes to implement. In this project I learned the importance of reading the documentation of new techonologies because even though the two, Context API and Redux, are very similar a simmple syntax error can cause a lot of problems.
 
 ## Usage
 
